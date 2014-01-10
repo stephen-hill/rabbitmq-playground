@@ -1,0 +1,4 @@
+rabbitmq-playground
+===================
+
+RabbitMQ Playground
